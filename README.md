@@ -29,13 +29,10 @@
 ---
 
 ### :woman_technologist: About Me :
-
-- 😄 I'm a passionate computer scientist student with a keen interest in Backend development & Machine Learning.
-- 🔭 I love exploring new technologies and applying them to solve real-world problems.
+- 📍 Cairo, Egypt
+- 😄 A Computer Scientist student with a keen interest in Backend development & Machine Learning.
 - 🌱 My goal is to continuously learn and grow to become an exceptional Software Engineer 😊
-- ⚡ Fun fact: I love reading and playing video games 🫠
-
-Feel free to browse through my repositories, and don't hesitate to reach out if you have any questions, ideas for collaboration, or just want to connect!
+- ⚡ Fun fact: I love reading books and playing video games 🫠
 
 ---
 
