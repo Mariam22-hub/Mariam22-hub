@@ -66,4 +66,4 @@ Feel free to browse through my repositories, and don't hesitate to reach out if 
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam22-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam22-hub&layout=compact&theme=vision-friendly-dark)](https://github.com/Mariam22-hub/github-readme-stats)
