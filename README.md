@@ -14,10 +14,12 @@
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
   </a>
 </div>
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
-
-### Hi there, I'm Mariam Elmoazen 👋
 
 Welcome to my GitHub space! I'm a passionate computer scientist with a keen interest in Backend development & Machine Learning. I love exploring new technologies and applying them to solve real-world problems.
 
