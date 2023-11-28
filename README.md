@@ -65,4 +65,4 @@ Feel free to browse through my repositories, and don't hesitate to reach out if 
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mariam22-hub&theme=dark&background=000000)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mariam22-hub" alt="GitHub Streak" /></a>
