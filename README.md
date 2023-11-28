@@ -1,9 +1,15 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**Mariam22-hub/Mariam22-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Mariam Elmoazen 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub space! I'm a passionate computer scientist with a keen interest in Backend development & Machine Learning. I love exploring new technologies and applying them to solve real-world problems.
+
+As a senior computer science student, I've had the opportunity to work on some exciting projects. My goal is to continuously learn and grow as a developer, and contribute to the open-source community 😊
+
+Feel free to browse through my repositories, and don't hesitate to reach out if you have any questions, ideas for collaboration, or just want to connect!
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +18,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love reading and playing video games 🫠
+
