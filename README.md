@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
   </a>
     
-  <a href="https://codeforces.com/profile/marie2233](https://leetcode.com/marie2233/">
+  <a href="https://leetcode.com/marie2233/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
   </a>
 </div>
