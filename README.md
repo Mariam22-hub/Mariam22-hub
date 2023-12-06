@@ -31,8 +31,8 @@
 ### :woman_technologist: About Me :
 - 📍 Cairo, Egypt
 - 😄 A Computer Scientist student with a keen interest in Backend development & Machine Learning.
-- 🌱 My goal is to continuously learn and grow to become an exceptional Software Engineer 😊
-- ⚡ Fun fact: I love reading books and playing video games 🫠
+- 🌱 My goal is to continuously learn and grow to become an exceptional Software Engineer
+- ⚡ Fun fact: I love reading books and playing video games
 
 ---
 
