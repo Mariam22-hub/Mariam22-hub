@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi<br>I'm a Software Engineer!</h1>
+  <h1>Hi!<br>I'm a Software Engineer</h1>
 </div>
 
 <div id="header" align="center">
@@ -52,8 +52,6 @@
 </div>
 
 ---
-
-### My Stats :
 <!-- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mariam22-hub" alt="GitHub Streak" /></a> -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
