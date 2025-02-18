@@ -1,5 +1,9 @@
+<div align="center">
+  <h1>Hi<br>I'm a Software Engineer!</h1>
+</div>
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/mariam-elmoazen-b6835a172/">
@@ -9,20 +13,11 @@
   <a href="mailto:mariam.elmoazen@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-
-  <a href="https://codeforces.com/profile/marie2233">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
-  </a>
     
   <a href="https://leetcode.com/marie2233/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode Badge"/>
   </a>
   
-</div>
-<h1>
-  Hi<br>I'm a Software Engineer!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 </div>
 
 
@@ -59,4 +54,10 @@
 ---
 
 ### My Stats :
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mariam22-hub" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mariam22-hub" alt="GitHub Streak" /></a> -->
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariam22-hub&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" />
+</a>
+
+
