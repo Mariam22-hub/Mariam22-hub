@@ -20,21 +20,11 @@
   
 </div>
 <h1>
-  Hey there<br>I'm Mariam Elmoazen
+  Hi<br>I'm a Software Engineer!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-
----
-
-### About Me :
-- 📍 Cairo, Egypt
-- 😄 A Computer Scientist Fresh Graduate with a keen interest in Backend development & Machine Learning.
-- 🌱 My goal is to continuously learn and grow to become an exceptional Software Engineer
-- ⚡ Fun fact: I love reading books and playing video games
-
----
 
 ### Languages and Tools :
 <div>
@@ -60,7 +50,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="xcode" **alt="xcode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" **alt="typescript" width="40" height="40"/>
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="spring boot" **alt="spring" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
+
 </div>
 </div>
 
