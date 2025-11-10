@@ -54,8 +54,8 @@
 ---
 <!-- <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Mariam22-hub" alt="GitHub Streak" /></a> -->
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mariam22-hub&theme=react-dark&bg_color=0D1117&hide_border=true" alt="GitHub Activity Graph" />
-</a>
+</a> -->
 
 
